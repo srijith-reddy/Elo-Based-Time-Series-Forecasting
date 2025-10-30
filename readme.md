@@ -30,9 +30,10 @@ This open-source database provides:
 - **Diagnostics:** Residual ACF/PACF, Ljung–Box tests, and forecast uncertainty intervals.
 
 ### 🎯 Win Probability Formula
-\[
+
+$$
 P(A \text{ beats } B) = \frac{1}{1 + 10^{-\frac{(E_A - E_B)}{400}}}
-\]
+$$
 
 ---
 
