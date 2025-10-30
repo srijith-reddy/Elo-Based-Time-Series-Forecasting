@@ -4,6 +4,7 @@
 An interactive ATP Elo Forecast Dashboard built with Python and Streamlit.  
 This app automatically computes advanced surface-aware Elo ratings, constructs monthly time series for every ATP player, and applies a Smart ARIMA Model Selection system to forecast each player’s Elo trajectory up to 24 months ahead.  
 It also visualizes win probabilities, residual diagnostics, and model interpretability plots (ACF/PACF) — giving fans, analysts, and researchers a statistical edge in understanding player form trends.
+
 ![Elo-Based-Time-Series-Forecasting](assets/Elo_Dashboard.gif)
 ---
 
